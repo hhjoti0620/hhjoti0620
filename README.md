@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- আপনার ব্যানার ইমেজের লিংক এখানে দিন -->
-  <img src="[banner.jpg](https://github.com/hhjoti0620/hhjoti0620/blob/6b98a611249b6cbd7a49136f7a1bddb1b0f14c4e/banner.jpg)" width="100%" alt="Header Banner"/>
+  <img src="https://github.com/hhjoti0620/hhjoti0620/blob/6b98a611249b6cbd7a49136f7a1bddb1b0f14c4e/banner.jpg" width="100%" alt="Header Banner"/>
 
   <br><br>
 
