@@ -34,7 +34,7 @@
 
 ## 🔬 Core Focus & Vision
 
-| <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=10000&color=FFD700&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%A7%A0+AI+%26+Data+Science+Researcher" alt="AI & Data Science Researcher" /></p> |
+| <h3 align="center"><font color="#FFD700">AI & Data Science Researcher</font></h3> |
 |:---|
 | 🧪 **Focus Area 1:** SOTA Deep Learning & Machine Learning Experiments |
 | 📊 **Focus Area 2:** Data Science Pipelines, Predictive Modeling & EDA |
