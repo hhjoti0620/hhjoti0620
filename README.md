@@ -34,16 +34,20 @@
 
 ## 🔬 Core Focus & Vision
 
-| 🧠 AI & Data Science Researcher |
+| <span style="color: #FFD700;">🧠 **AI & Data Science Researcher**</span> |
 |:---|
 | 🧪 **Focus Area 1:** SOTA Deep Learning & Machine Learning Experiments |
 | 📊 **Focus Area 2:** Data Science Pipelines, Predictive Modeling & EDA |
 | 👁️ **Focus Area 3:** Computer Vision & Advanced Model Optimization |
 | 📜 **Focus Area 4:** Reproducible Research, Benchmarking & Technical Writing |
-| |
-| 🛡️ **Future Roadmap:** **AI Security & Safety** — Adversarial Robustness & Secure AI Systems |
 
 <br/>
+
+<h3>
+  <span style="color: #38bdf8;">
+    🛡️ <b>Future Roadmap:</b> AI Security & Safety — Adversarial Robustness & Secure AI Systems
+  </span>
+</h3>
 
 > *"Turning data into intelligence, while building towards secure and robust AI."*
 
