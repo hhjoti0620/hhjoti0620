@@ -54,12 +54,16 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack & Expertise
+<div align="center">
+
+<h2>
+  🛠️ <font color="#FFD700">Tech Stack & Expertise</font>
+</h2>
 
 <br>
 
 <!-- Section 1: AI, ML & Deep Learning -->
-<h4>🤖 Machine Learning & Deep Learning</h4>
+<h4>Machine Learning & Deep Learning</h4>
 
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -80,10 +84,10 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Section 2: Core Foundations -->
-<h4>🧬 Foundations & Data Tools</h4>
+<h4>Foundations & Data Tools</h4>
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -94,14 +98,8 @@
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </a>
-<a href="https://docs.pydantic.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-</a>
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</a>
-<a href="https://redis.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </a>
 
 </div>
