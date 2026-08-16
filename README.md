@@ -34,7 +34,7 @@
 
 ## 🔬 Core Focus & Vision
 
-| <span style="color: #FFD700;">🧠 **AI & Data Science Researcher**</span> |
+| <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=10000&color=FFD700&center=true&vCenter=true&width=400&height=30&lines=%F0%9F%A7%A0+AI+%26+Data+Science+Researcher" alt="AI & Data Science Researcher" /></p> |
 |:---|
 | 🧪 **Focus Area 1:** SOTA Deep Learning & Machine Learning Experiments |
 | 📊 **Focus Area 2:** Data Science Pipelines, Predictive Modeling & EDA |
@@ -43,14 +43,10 @@
 
 <br/>
 
-<h3>
-  <span style="color: #38bdf8;">
-    🛡️ <b>Future Roadmap:</b> AI Security & Safety — Adversarial Robustness & Secure AI Systems
-  </span>
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=10000&color=38BDF8&center=true&vCenter=true&width=800&height=30&lines=%F0%9F%9B%A1%EF%B8%8F+Future+Roadmap%3A+AI+Security+%26+Safety+%E2%80%94+Adversarial+Robustness+%26+Secure+AI" alt="Future Roadmap" />
+
+<br/>
 
 > *"Turning data into intelligence, while building towards secure and robust AI."*
 
 </div>
-
----
