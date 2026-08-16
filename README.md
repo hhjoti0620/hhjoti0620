@@ -16,15 +16,15 @@
   <img src="https://komarev.com/ghpvc/?username=hhjoti0620&style=for-the-badge&color=FFD700&label=Profile+Views"/>
   
   <a href="https://www.linkedin.com/in/hasna-hena-joti-a20120421" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555"/>
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=h.h.joti87@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555"/>
   </a>
 
   <a href="https://github.com/hhjoti0620" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555"/>
   </a>
 
 </div>
