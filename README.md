@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Section 2: Core Foundations -->
 <h4>Foundations & Data Tools</h4>
