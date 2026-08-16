@@ -100,3 +100,28 @@
 </div>
 
 ---
+
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/hhjoti0620">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhjoti0620&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+</a>
+
+<br><br>
+
+<!-- Optional: Overall Stats Card & Top Languages (Side by Side) -->
+<a href="https://github.com/hhjoti0620">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhjoti0620&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/hhjoti0620">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhjoti0620&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</a>
+
+</div>
+
+---
