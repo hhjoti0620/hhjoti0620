@@ -28,3 +28,25 @@
   </a>
 
 </div>
+
+
+<div align="center">
+
+## 🔬 Core Focus & Vision
+
+| 🧠 AI & Data Science Researcher |
+|:---|
+| 🧪 **Focus Area 1:** SOTA Deep Learning & Machine Learning Experiments |
+| 📊 **Focus Area 2:** Data Science Pipelines, Predictive Modeling & EDA |
+| 👁️ **Focus Area 3:** Computer Vision & Advanced Model Optimization |
+| 📜 **Focus Area 4:** Reproducible Research, Benchmarking & Technical Writing |
+| |
+| 🛡️ **Future Roadmap:** **AI Security & Safety** — Adversarial Robustness & Secure AI Systems |
+
+<br/>
+
+> *"Turning data into intelligence, while building towards secure and robust AI."*
+
+</div>
+
+---
